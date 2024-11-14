@@ -1,3 +1,3 @@
 ### Oi meu nome é Jhordana
 
-## Desenvolvedora Javascript React, Nodejs, Nestjs, Prisma, SQL.
+## Desenvolvedora de Testes automatizados.
